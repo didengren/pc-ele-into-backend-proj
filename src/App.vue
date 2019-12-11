@@ -9,7 +9,7 @@ export default {};
 </script>
 
 <style lang="less">
-@import "./assets/styles/iconfonts/iconfont.css";
+// @import "./assets/styles/iconfonts/iconfont.css";
 * {
   margin: 0;
   padding: 0;
