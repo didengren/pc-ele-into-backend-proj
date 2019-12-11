@@ -1,4 +1,3 @@
-// import qs from "qs";
 // import { fetch } from "./index";
 
 /**
