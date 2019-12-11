@@ -1,4 +1,4 @@
-# gold-medal-butler
+# 自定义pc端vue开发脚手架，集成了element-ui
 
 ## Project setup
 ```
